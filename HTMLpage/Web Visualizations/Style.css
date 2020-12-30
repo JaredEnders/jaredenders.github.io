@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: lightgray;
+}
+h2 {
+    color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+.navbar {
+    background-color: white;
+    width: 100%;
+}
+.navbar-light .navbar-brand {
+    color: white;
+}
+.navbar-brand {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: teal;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5%;
+}
+.navbar-collapse {
+    position: absolute;
+    font-size: 12px;
+}
+.nav-item {
+    font-weight: bold;
+}
+.buttons {
+    margin-bottom: 7px;
+}
+.content {
+    width: 95%;
+    margin: 25px;
+}
+.text-left {
+    color: teal;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.text-center {
+    color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.thumbnail {
+    width: 50%;
+}
+.main-image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.col-md-8 {
+    background-color: white;
+}
+.col-sm-12,.col-md-4 {
+    background-color: white;
+}
+div.col-sm-12.col-md-12 div.col-lg-6.col-sm-12 img {
+    width: 100%;
+}
+.imagetiles {
+    background-color: white;
+}
+div.imagetiles div.col-lg-6.col-sm-12 img {
+    width: 100%;
+}
+div.col-sm-12.col-md-12 p {
+    color: black;
+    font-size: 12px;
+}
+#content-container {
+    margin-top: 24px;
+}
+#data-table-container {
+    background-color: white;
+    margin-top: 24px;
+}
